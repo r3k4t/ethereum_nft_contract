@@ -1,5 +1,5 @@
-# SMART_CONTRACTS.
+# SMART_CONTRACT
 
-(BLOCKCHAIN<=================
-=====================>SMART CONTRACT<===============
-================================================>NFT)
+💎(BLOCKCHAIN<===
+===>SMART CONTRACT<===
+===>NFT)💎
