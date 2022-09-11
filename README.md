@@ -1,2 +1,2 @@
-#💎 SMART_CONTRACT
+💎 # SMART_CONTRACT
 
