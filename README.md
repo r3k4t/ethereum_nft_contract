@@ -1,2 +1,5 @@
-# SOLDITY_SMART_CONTRACT
-(BLOCKCHAIN)
+# SMART_CONTRACTS.
+
+(BLOCKCHAIN<=================
+=====================>SMART CONTRACT<===============
+================================================>NFT)
