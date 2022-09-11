@@ -1,5 +1,2 @@
-# SMART_CONTRACT
+#💎 SMART_CONTRACT
 
-💎(BLOCKCHAIN<===
-===>SMART CONTRACT<===
-===>NFT)💎
